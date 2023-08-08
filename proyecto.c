@@ -4,6 +4,7 @@
 #include <limits.h>
 #include <stdlib.h>
 #include <time.h>
+#include <conio.h>
 
 
 int IdP = 0, IdF = 0, IdA = 0;
